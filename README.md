@@ -1,5 +1,7 @@
 # FistLib
 
+[![](https://jitpack.io/v/Fuadafdhal/FistLib.svg)](https://jitpack.io/#Fuadafdhal/FistLib)
+
 
 allprojects 
 --------
