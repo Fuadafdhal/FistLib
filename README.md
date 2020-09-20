@@ -1,14 +1,20 @@
 # FistLib
 
 
+allprojects 
+--------
+
+```groovy
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
+	repositories {
+		maven { url 'https://jitpack.io' }
 		}
 	}
-  
-  
-  dependencies {
-	        implementation 'com.github.Fuadafdhal:FistLib:Tag'
-	}
+```
+
+dependencies
+--------
+
+```groovy
+ implementation 'com.github.Fuadafdhal:FistLib:Tag'
+```
